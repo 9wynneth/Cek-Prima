@@ -16,6 +16,14 @@ namespace Cek_Prima
                     Faktor++;
                 }
             }
+            if (Faktor==2)
+            {
+                Console.Write("Bilangan tersebut merupakan bilangan prima");
+            }
+            else
+            {
+                Console.Write("Bilangan tersebut BUKAN merupakan bilangan prima");
+            }
            
         }
     }
