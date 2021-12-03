@@ -9,6 +9,10 @@ namespace Cek_Prima
             Console.WriteLine("Silahkan input suatu bilangan");
             int InputBilangan = Convert.ToInt32(Console.ReadLine());
             var Faktor = 0;
+            for (int i;i<=InputBilangan;i++)
+            {
+
+            }
            
         }
     }
