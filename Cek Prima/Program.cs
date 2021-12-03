@@ -8,6 +8,7 @@ namespace Cek_Prima
         {
             Console.WriteLine("Silahkan input suatu bilangan");
             int InputBilangan = Convert.ToInt32(Console.ReadLine());
+            var Faktor = 0;
            
         }
     }
